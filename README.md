@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+/*<h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 ## Profile Views :
@@ -23,3 +23,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karthikeya-naik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+*/
