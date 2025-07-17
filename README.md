@@ -39,7 +39,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-naik&layout=compact&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?username=karthikeya-naik&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=karthikeya-naik&theme=dracula)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karthikeya-naik&theme=dracula)
